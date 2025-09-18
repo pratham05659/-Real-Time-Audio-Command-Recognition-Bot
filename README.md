@@ -1,12 +1,7 @@
 # -Real-Time-Audio-Command-Recognition-Bot
 An offline speech recognition system using MFCC-based CNN. Captures live audio, processes spectrograms, predicts commands like 'go', 'left', 'right', and 'stop', and controls a bot in real-time with low latency and high accuracy..
 
-# save this as project_info.py and run with python project_info.py
-
-project_description = """
-====================================================
 REAL-TIME AUDIO COMMAND RECOGNITION BOT
-====================================================
 
 A real-time audio command recognition system that interprets spoken commands and controls a bot or device.
 Combines audio signal processing, deep learning, and real-time execution for accurate and low-latency recognition.
@@ -50,4 +45,3 @@ How It Works:
    - GPIO motor control available if deployed on hardware
 """
 
-print(project_description)
