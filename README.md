@@ -43,5 +43,5 @@ How It Works:
 4. Bot Control:
    - Executes movement functions based on command
    - GPIO motor control available if deployed on hardware
-"""
+
 
